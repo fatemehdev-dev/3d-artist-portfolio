@@ -4,6 +4,10 @@
 
 ### A modern, fully responsive portfolio website for a 3D artist.
 
+<div align="center">
+  <img src="desktop.png" alt="پیش‌نمایش پرتفولیو" width="800">
+</div>
+
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
