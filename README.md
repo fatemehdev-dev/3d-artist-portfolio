@@ -9,11 +9,16 @@
 </div>
 
 <br>
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=4a9eff)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=4a9eff)
+
+![Responsive Design](https://img.shields.io/badge/RESPONSIVE-DESIGN-1a1a1a?style=for-the-badge&labelColor=333333&logoColor=4a9eff&color=1a1a1a)
+
+![Status Completed](https://img.shields.io/badge/STATUS-COMPLETED-1a1a1a?style=for-the-badge&labelColor=333333&logoColor=4a9eff&color=1a1a1a)
+
+</div>
 
 <br>
 
